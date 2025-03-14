@@ -1,8 +1,19 @@
 h1 {
+    
+    color: white;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
     font-family: sans-serif;
+    font-size: 40px;
     text-align: center;
 }
 
-.flexcontanier {
-    display:flex;
+.container1 {
+   display: flex;
+   justify-content: center;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
 }

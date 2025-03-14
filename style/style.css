@@ -8,6 +8,7 @@ h1 {
     text-align: center;
 }
 
+<<<<<<< HEAD
 .container1 {
    display: flex;
    justify-content: center;
@@ -17,3 +18,10 @@ h1 {
     display: flex;
     justify-content: center;
 }
+=======
+.flexcontanier {
+    display: flex;
+    
+}
+
+>>>>>>> 5edddfa18fcc3208c8994e4abdb463354b8563c0
